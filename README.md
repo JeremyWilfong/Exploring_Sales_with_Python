@@ -1,5 +1,5 @@
 # Exploring Sales with Python
-### Click the Exploring Sales.ipynb or .html above to view the code and it's outputs.<br><br>
+### Click the Exploring Sales.ipynb or Download the Exploring Sales.html above to view the code and it's outputs.<br><br>
 
 **Purpose**
 * Analyze a year of sales data to provide meaningful insights to stakeholders.
